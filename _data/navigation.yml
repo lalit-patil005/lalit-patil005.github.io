@@ -1,16 +1,17 @@
 # main links links
 main:
   - title: "About Me"
-    url: /aboutme/
+    url: /about
 
   - title: "Interests"
-    url: /interests/    
+    url: /interests 
 
   - title: "Skills"
-    url: /skills/    
+    url: /skills  
       
   - title: "Projects"
-    url: /projects/
+    url: /projects
     
   - title: "Contact"
-    url: /contact/
+    url: /contact
+    
