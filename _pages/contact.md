@@ -25,9 +25,7 @@ Phone : +918446236916<br />
 
 
 Connect with me on other social sites
-======
-
-<p align = "center">
+----------
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://lalit-patil005.github.io)
 [<img src ="https://img.shields.io/badge/email-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](mailto:lalit.patil005@gmail.com)
@@ -36,4 +34,3 @@ Connect with me on other social sites
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/lalit5387) 
 [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/lalit.m.patil)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/lalit.m.patil)
-</p>
