@@ -9,51 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+I have worked on many web applications and desktop applications
 
-Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* E-commerce Web Application in flask and SQLAlchemy, postgres
+* Odoo ERP System Integration and Warehouse automation
+* Production Monitor System with Breakdown analysis
+* Subtitles Creator for Video using google translate API and Python.
+* Read & Write S7-1200 Siemens PLC using python snap7 as Freelancer.
+* Web scrapping using Python and Beautiful Soup as Freelancer.
+* Custom Budget Calculator using javascript.
+* Automatic Image cropping tool using Opencv, VC++ as Freelancer.
+* worked with Ad Builder project using C#.NET and Javascript.
+* HTML Conversion Tool using C#.NET and Javascript.
+* Water Flow Control using embedded C.
