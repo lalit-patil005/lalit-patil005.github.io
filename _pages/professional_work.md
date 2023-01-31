@@ -1,15 +1,15 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /work/
 author_profile: true
 redirect_from:
-  - /projects
+  - /work
 ---
 
 {% include base_path %}
 
-I have worked on many web applications and desktop applications
+I have worked on many web applications and desktop applications.
 
 ======
 * E-commerce Web Application in flask and SQLAlchemy, postgres

@@ -11,14 +11,15 @@ redirect_from:
 
 In my free time I try to read technical blogs, try to learn something new.
 
-hobbies
+I like to watch tv along with family or friends to keep my mind and mood fresh.
+
+Hobbies
 ======
-* Reading
+* Reading news and technical blogs
 * Watching TV
 * Playing cricket
-* 
 
-Techincal interests 
+Interested to learn and work in following technologies
 =====
 * Go
 * Docker
@@ -28,4 +29,5 @@ Techincal interests
 * AWS and other cloud technologies
 * Component based frontend development (React, Angular)
 * Machine learning, TensorFlow
+* Internet of things (IoT)
 * Devops pipeline

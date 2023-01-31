@@ -9,8 +9,8 @@ main:
   - title: "Skills"
     url: /skills  
       
-  - title: "Projects"
-    url: /projects
+  - title: "Professional Work"
+    url: /work
     
   - title: "Contact"
     url: /contact
