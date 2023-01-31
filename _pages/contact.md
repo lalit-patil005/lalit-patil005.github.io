@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
 redirect_from:
@@ -9,23 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Address
-======
+## Address
+------------
 301, Ashirwad Building,<br />
 Shirole Nagar,Pimple gurav<br />
 Pune - 411061<br />
 Maharashtra, India<br />
 
 
-
-Email: lalit.patil005@gmail.com<br />
-Phone : +918446236916<br />
-
+Email: [lalit.patil005@gmail.com](mailto:lalit.patil005@gmail.com)<br />
+Phone : [+918446236916](tel:+918446236916)<br />
 
 
 
-Connect with me on other social sites
-----------
+## Connect with me on other social sites
+----------------------------------------
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://lalit-patil005.github.io)
 [<img src ="https://img.shields.io/badge/email-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](mailto:lalit.patil005@gmail.com)

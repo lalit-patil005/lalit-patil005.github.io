@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interests"
+title: ""
 permalink: /interests/
 author_profile: true
 redirect_from:
@@ -13,14 +13,14 @@ In my free time I try to read technical blogs, try to learn something new.
 
 I like to watch tv along with family or friends to keep my mind and mood fresh.
 
-Hobbies
-======
+## Hobbies
+------------------
 * Reading news and technical blogs
 * Watching TV
 * Playing cricket
 
-Interested to learn and work in following technologies
-=====
+## Interested to learn and work in following technologies
+----------------------------------------------------------
 * Go
 * Docker
 * Micro-services

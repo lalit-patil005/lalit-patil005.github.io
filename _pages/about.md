@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lalit Patil"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,10 +21,10 @@ I have built web applications and desktop application from the ground up, worked
 
 
 
-Past Work Experience
-=============
- - Mediawide Labs Private Limited Pune - March 2015 to January 2017
- - Vedika Web Solution Pune - November 2014 to March 2015
- - SII Technology Private Limited Pune - July 2012 to June 2013
- - Classic Associates Sinhgad Road Pune - August 2011 to June 2012
+## Past Work Experience
+
+- Mediawide Labs Private Limited Pune - March 2015 to January 2017
+- Vedika Web Solution Pune - November 2014 to March 2015
+- SII Technology Private Limited Pune - July 2012 to June 2013
+- Classic Associates Sinhgad Road Pune - August 2011 to June 2012
 
