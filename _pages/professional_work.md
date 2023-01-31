@@ -71,3 +71,6 @@ tried some cross platform mobile frameworks to develop android apps
 
 * ***QR code scanner in flutter and react native***
    - tried to develop android app for scanning qr code and linear barcodes 
+
+* ***android app for token system in ionic framework***
+   - tried to develop android app to generate tokens for customers in any hotel or mess.
