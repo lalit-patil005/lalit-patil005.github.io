@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-I have worked on many web applications and desktop applications.
+I have worked on web applications and desktop applications.
 
 Created CLI tools/apps for automating most of the repetitive work.
+
+tried some cross platform mobile frameworks to develop android apps
 
 ## Projects:
 ----------------------
@@ -66,3 +68,6 @@ Created CLI tools/apps for automating most of the repetitive work.
 * ***HTML Conversion Tool.***
    - This tool was developed using C++ and Adobe InDesign which takes any Adobe InDesign file like book cover, banner ad or any other ad design and converts it into html file.
    - that html file is later used on advertising platforms like google ads or other ads to publish ads.
+
+* ***QR code scanner in flutter and react native***
+   - tried to develop android app for scanning qr code and linear barcodes 
